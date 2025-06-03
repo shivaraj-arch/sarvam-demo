@@ -1,0 +1,9 @@
+# Core Requirements
+streamlit
+sqlite3  # Built-in (included for documentation)
+
+# LLM Interface (Choose one based on your implementation)
+huggingface-hub  # For Hugging Face Inference API
+requests  # For direct API calls
+
+
